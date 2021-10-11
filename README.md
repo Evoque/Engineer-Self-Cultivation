@@ -29,7 +29,8 @@ Self-cultivation of front-end programmers
         - [ ] JQuery
         - [ ] React相关：React Source、React Router、Redux、DND
         - [ ] Vue相关：同React
-      - [ ] Node
+      - [ ] Node：异步编程、V8性能优化、Koa/Express框架、工程化(微服务等)
+      - [ ] 移动前端：Native App、Hybrid App
       - [ ] 开源项目：非玩票性质或自实现框架
       - [ ] Architecture: Not limited to Design Patterns
 - [ ] **4分** 能够带领团队进行完整的项目开发 **【4.4分】**
