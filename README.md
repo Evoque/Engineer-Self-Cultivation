@@ -1,8 +1,7 @@
 # FrontEnd-Self-Cultivation
 Self-cultivation of front-end programmers
 
-
-前端自我评估
+**下面是每个分值及其详细要求**
 
 
 - [x] **0分** 不了解这个领域
