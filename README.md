@@ -11,28 +11,28 @@ Self-cultivation of front-end programmers
     - [x] 业务应用
     - [ ] 细分专业领域
       - [ ] 工程化
-        - [ ] Cli & Devtools: Webpack、Babel、Rollup、Yarn等
-        - [ ] Cli & Devtools进阶：create-react-app、umi、dva、about vue?
-        - [ ] 测试：Logic Test, UI Test, 测试领域概念,  回归测试系统
-      - [ ] 可视化
-        - [ ] 2D
-        - [ ] 3D
-        - [ ] GIS
-      - [ ] Algorithm
-        - [ ] Leetcode
-        - [ ] 算法导论
-      - [ ] 技术栈
-        - [ ] ES5/ES6
-        - [ ] CSS & CSS3 & HTML & HTML5 & 浏览器工作原理
-        - [ ] Flow & TypeScript
-        - [ ] PWA
-        - [ ] JQuery
-        - [ ] React相关：React Source、React Router、Redux、DND
-        - [ ] Vue相关：同React
-      - [ ] Node：异步编程、V8性能优化、Koa/Express框架、工程化(微服务等)
-      - [ ] 移动前端：Native App、Hybrid App
-      - [ ] 开源项目：非玩票性质或自实现框架
-      - [ ] Architecture: Not limited to Design Patterns
+      - [ ] Cli & Devtools: Webpack、Babel、Rollup、Yarn等
+      - [ ] Cli & Devtools进阶：create-react-app、umi、dva、about vue?
+      - [ ] 测试：Logic Test, UI Test, 测试领域概念,  回归测试系统
+    - [ ] 可视化
+      - [ ] 2D
+      - [ ] 3D
+      - [ ] GIS
+    - [ ] Algorithm
+      - [ ] Leetcode
+      - [ ] 算法导论
+    - [ ] 技术栈
+      - [ ] ES5/ES6
+      - [ ] CSS & CSS3 & HTML & HTML5 & 浏览器工作原理
+      - [ ] Flow & TypeScript
+      - [ ] PWA
+      - [ ] JQuery
+      - [ ] React相关：React Source、React Router、Redux、DND
+      - [ ] Vue相关：同React
+    - [ ] Node：异步编程、V8性能优化、Koa/Express框架、工程化(微服务等)
+    - [ ] 移动前端：Native App、Hybrid App
+    - [ ] 开源项目：非玩票性质或自实现框架
+    - [ ] Architecture: Not limited to Design Patterns
 - [ ] **4分** 能够带领团队进行完整的项目开发 **【4.4分】**
     - [x] 中级项目
     - [ ] 大型项目
