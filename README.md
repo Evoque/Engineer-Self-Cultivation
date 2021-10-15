@@ -27,7 +27,12 @@ Self-cultivation of front-end programmers
       - [ ] Flow & TypeScript
       - [ ] PWA
       - [ ] JQuery
-      - [ ] React相关：React Source、React Router、Redux、DND
+      - [ ] React相关：
+        - [ ] React Source:
+        - [ ] React Router Source
+        - [ ] React Redux Source
+        - [ ] DND Source
+        - [ ] Other:
       - [ ] Vue相关：同React
     - [ ] Node：异步编程、V8性能优化、Koa/Express框架、工程化(微服务等)
     - [ ] 移动前端：Native App、Hybrid App
