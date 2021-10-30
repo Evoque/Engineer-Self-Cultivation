@@ -5,17 +5,19 @@
 ## Learning path
 - [ ] 架构图
 
-  > E-R图、类图、流程图、用例图
-  >
   > - E-R图：实体关系图
-  > - 流程图(业务流程图Business Process Diagram)
-  > - UML：立足于对事物的实体、性质、关系、结构、状态和动态变化过程的全程描述和反映。可以建立需求模型
-  > - 网络拓扑图
-  > - 组织结构图
+  > - UML(用例图、流程图、时序图、架构图)：立足于对事物的实体、性质、关系、结构、状态和动态变化过程的全程描述和反映。
+  >   - Use Case View
+  >   - Process View: Activity Diagram、泳道图
+  >   - Logical View:  Class Diagram、Object Diagram、Sequence Diagram、State Machine Diagrams
+  >   - Physical View:  Deployment Diagrams
+  >   - Development View: Component, Packages
   > - BPMN：业务流程建模与标注，包括图元如何组合成一个业务流程图
+  >
+  > 说明：UML参考《OReilly.Learning.UML.2.0》
 
-  - [ ] 系统架构图
-  - [ ] 流程图(用例图)
+  - [ ] 架构图(?)：描述其代码架构
+  - [ ] 流程图(用例图)：描述其流转的生命周期
 
 - [ ] 最新版源码
   - [ ] react-router
