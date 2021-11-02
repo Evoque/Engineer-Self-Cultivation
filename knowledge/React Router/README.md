@@ -2,6 +2,16 @@
 
 > Declarative routing for React
 
+
+
+The `react-router` provides all core functionality. 
+
+If you're using React Router, you should never `import` anything directly from the `react-router` package, but you should have everything you need in either `react-router-dom` or `react-router-native`. Both of those packages re-export everything from `react-router`.
+
+If you'd like to extend React Router and you know what you're doing, you should add `react-router` **as a peer dependency, not a regular dependency** in your package.
+
+
+
 ## Learning path
 - [ ] 架构图
 
@@ -45,7 +55,47 @@
 
 
 
-## QA
+
+
+# history
+
+### 一、history in `react-router`
+
+```tsx
+import type { History, InitialEntry, Location, MemoryHistory, Path, To } from "history";
+import { Action as NavigationType, createMemoryHistory, parsePath } from "history";
+```
+
+
+
+### 二、history in `react-router-dom`
+
+```tsx
+// index.tsx
+import type { BrowserHistory, HashHistory } from "history";
+import { createBrowserHistory, createHashHistory, createPath } from "history";
+
+// server.tsx
+import { Action, Location, To, createPath, parsePath } from "history";
+```
+
+
+
+
+
+### 三、history in `react-router-native`
+
+> 好像没用到`history`
+
+
+
+
+
+
+
+
+
+## TO-DO
 
 1. React Router runs everywhere that React runs: web, server(node.js), React Native
 2. Difference between every versions: V1 - V5, V6 on the way.
@@ -57,3 +107,4 @@
 8. Go into [Reactiflux](https://www.reactiflux.com/)
 9. [rollup](https://github.com/rollup/rollup)
 10. [jest](https://github.com/facebook/jest): 应该聚焦在`Test`主题下，如：前端Test是如何玩的
+11. `peerDependencies`
