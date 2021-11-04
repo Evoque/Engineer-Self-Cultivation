@@ -21,6 +21,13 @@ Self-cultivation of front-end programmers
     - [ ] Algorithm
       - [ ] Leetcode
       - [ ] 算法导论
+    - [ ] Http & TCP/IP
+      - [ ] Curl手册
+      - [ ] Nmap和Hping手册
+    - [ ] SQL注入
+      - [ ] SQLmap手册
+    - [ ] Web前端安全
+      - [ ] BeFF手册
     - [ ] 技术栈
       - [ ] ES5/ES6
       - [ ] CSS & CSS3 & HTML & HTML5 & 浏览器工作原理
