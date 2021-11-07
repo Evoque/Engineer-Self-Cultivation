@@ -66,10 +66,6 @@ import type { History, InitialEntry, Location, MemoryHistory, Path, To } from "h
 import { Action as NavigationType, createMemoryHistory, parsePath } from "history";
 ```
 
-
-
-
-
 ### 二、history in `react-router-dom`
 
 ```tsx
@@ -81,13 +77,18 @@ import { createBrowserHistory, createHashHistory, createPath } from "history";
 import { Action, Location, To, createPath, parsePath } from "history";
 ```
 
-
-
-
-
 ### 三、history in `react-router-native`
 
-> 好像没用到`history`
+> `RN`中暂不考虑
+
+
+
+
+
+- [ ] route ranking algorithm
+- [ ] `useRouteMatch() => match`中`match.path`与`match.url`的区别
+- [ ] v5 版的Document怎么生成的(导航 - 描述 - 代码)
+- [ ] 
 
 
 
