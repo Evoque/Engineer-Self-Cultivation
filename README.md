@@ -38,6 +38,10 @@ Self-cultivation of front-end programmers
         - [ ] React Source
         - [ ] :kissing_heart: React Router Source
           - [x] history v5
+          - [ ] All APIs & Use Patterns
+          - [ ] All Source code
+          - [ ] Engineering Details
+          - [ ] Differences between last two versions and why?
         - [ ] React Redux Source
         - [ ] DND Source
         - [ ] Other:
