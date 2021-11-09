@@ -1,4 +1,4 @@
-这里是代码练习的地方， 不计入git
+
 
 > Declarative routing for React
 
@@ -88,6 +88,7 @@ import { Action, Location, To, createPath, parsePath } from "history";
 - [ ] route ranking algorithm
 - [ ] `useRouteMatch() => match`中`match.path`与`match.url`的区别
 - [ ] v5 版的Document怎么生成的(导航 - 描述 - 代码)
+- [ ] `location`在`Switch`中的作用，[Trick Demo](https://v5.reactrouter.com/web/example/modal-gallery)
 
 
 
