@@ -36,6 +36,7 @@ Self-cultivation of front-end programmers
       - [ ] JQuery
       - [ ] React相关：
         - [ ] React Source
+          - [ ] Master in `hooks`
         - [ ] :kissing_heart: React Router Source
           - [x] history v5
           - [ ] :rocket: All APIs & Use Patterns
@@ -44,7 +45,7 @@ Self-cultivation of front-end programmers
           - [ ] Differences between last two versions and why?
         - [ ] React Redux Source
         - [ ] DND Source
-        - [ ] Other:
+    - [ ] Other:
       - [ ] Vue相关：同React
     - [ ] Node：异步编程、V8性能优化、Koa/Express框架、工程化(微服务等)
     - [ ] 移动前端：Native App、Hybrid App

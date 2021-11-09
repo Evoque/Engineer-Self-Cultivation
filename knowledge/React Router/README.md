@@ -88,9 +88,14 @@ import { Action, Location, To, createPath, parsePath } from "history";
 - [ ] route ranking algorithm
 - [ ] `useRouteMatch() => match`中`match.path`与`match.url`的区别
 - [ ] v5 版的Document怎么生成的(导航 - 描述 - 代码)
-- [ ] 
 
 
+
+### Master all APIs
+
+`Link` 和 `Route` 在代码上并没有任何耦合，`Link`只是处理`to`然后生成`a`链接
+
+Nesting Route中，子Route的path可以和父Route的path相同，会同时渲染父&子Route
 
 
 
@@ -111,3 +116,4 @@ import { Action, Location, To, createPath, parsePath } from "history";
 9. [rollup](https://github.com/rollup/rollup)
 10. [jest](https://github.com/facebook/jest): 应该聚焦在`Test`主题下，如：前端Test是如何玩的
 11. `peerDependencies`
+12. `Code Splitting`:  [inline code-splitting](https://reactjs.org/docs/code-splitting.html)  vs [Route-based code-splitting](https://reactjs.org/docs/code-splitting.html#route-based-code-splitting) vs [webpack v4 code-splitting](https://v4.webpack.js.org/guides/code-splitting/) vs [react-router code-splitting](https://v5.reactrouter.com/web/guides/code-splitting) 
