@@ -17,7 +17,7 @@ Self-cultivation of front-end programmers
     - [ ] 可视化
       - [ ] 2D
       - [ ] 3D
-      - [ ] GIS
+      - [ ] GIS: [maptalks](https://maptalks.org/) 5%
     - [ ] Algorithm
       - [ ] Leetcode
       - [ ] 算法导论
