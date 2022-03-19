@@ -11,6 +11,9 @@ Self-cultivation of front-end programmers
     - [x] 业务应用
     - [ ] 细分专业领域
       - [ ] 工程化
+      - [ ] Git
+         - [ ] 简单的Vim操作
+         - [ ] Git设计思想 + 复杂Git操作
       - [ ] Cli & Devtools: Webpack、Babel、Rollup、Yarn等
       - [ ] Cli & Devtools进阶：create-react-app、umi、dva、about vue?
       - [ ] 测试：Logic Test, UI Test, 测试领域概念,  回归测试系统
