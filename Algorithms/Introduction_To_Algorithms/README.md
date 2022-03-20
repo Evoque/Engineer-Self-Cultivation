@@ -48,3 +48,4 @@
      ```
   - [ ] 计算完1秒钟后，后面的的时间不能直接乘1秒钟的结果
   > But remember, N is an integer, so you should not just multiply N with conversion factor- the answer will be off by huge amount for higher time complexities. Instead you should multiply in the beginning of the calculation.
+  - 总结：从结果的比较得出，$2^n$ 和 n! 是非常差的时间复杂度, lgn和根号n是比较好的时间复杂度
