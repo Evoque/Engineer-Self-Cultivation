@@ -6,12 +6,15 @@
 - 官网[https://mitpress.mit.edu/books/introduction-algorithms-third-edition](https://mitpress.mit.edu/books/introduction-algorithms-third-edition): 部分练习题和思考题的答案
 - 习题答案解析：[https://atekihcan.github.io/CLRS/](https://atekihcan.github.io/CLRS/)
 - Markdown中的数学公式：[https://zhuanlan.zhihu.com/p/95886235](https://zhuanlan.zhihu.com/p/95886235)
+- Brilliant: [https://brilliant.org/](https://brilliant.org/) Brilliant replaces lecture videos with hands-on, interactive problem solving. It's a better (and more fun) way to learn.
 
 
 
 ## Unresolved
-- [ ] 1.1-1 现实生活中需要计算凸壳的一个例子
-    - 地图(省份)面积: 不规则多边形的面积
+- [x] 1.1-1 Finding Convex Hull: Finding shortest path between two points with some solid obstacles between them
+    - 地图(省份)面积: 不规则多边形的面积?
+    - Solving a game maze
+    - self-driving cars
     
 - [ ] 1.1-5 提供一个现实生活的问题，其中只有最佳解才行。然后提供一个问题，其中近似最佳的一个解也足够好。
 
