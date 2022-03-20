@@ -16,7 +16,8 @@
     - Solving a game maze
     - self-driving cars
     
-- [ ] 1.1-5 提供一个现实生活的问题，其中只有最佳解才行。然后提供一个问题，其中近似最佳的一个解也足够好。
+- [x] 1.1-5 Come up with a real-world problem in which only the best solution will do. Then come up with one in which a solution that is "approximately" the best is good enough.
+> Algorithms都是有前置条件的，如输入(数据量)的大小、时间要求、空间要求等等，如果条件允许，很多时候则不必选用最优解
 
 - [x] 1.2-2 插入排序与归并排序的时间复杂度分析: $ 8n^2 < 64nlgn $ 时，n有哪些取值
     $$
@@ -46,6 +47,6 @@
      print("Minium value of n (n!) : ", n - 1)
      
      ```
-  - [ ] 计算完1秒钟后，后面的的时间不能直接乘1秒钟的结果
+  - [x] 计算完1秒钟后，后面的的时间不能直接乘1秒钟的结果
   > But remember, N is an integer, so you should not just multiply N with conversion factor- the answer will be off by huge amount for higher time complexities. Instead you should multiply in the beginning of the calculation.
   - 总结：从结果的比较得出，$2^n$ 和 n! 是非常差的时间复杂度, lgn和根号n是比较好的时间复杂度
