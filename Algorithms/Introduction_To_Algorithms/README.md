@@ -26,4 +26,25 @@
     > 解得 1 < n < 44, n取整
 
 - [ ] 思考题
-
+  1. Finding N for nlgn and n! are not so obvious. 
+     - [ ] Use Lambert W functions
+     - Python code
+     ```python
+     
+     from math import *
+     
+     n = 1
+     while n * log(n, 2) < 1000000:
+       n += 1
+       
+     print("Minium value of n (nlgn) : ", n - 1)
+     
+     n1 = 1
+     while factorial(n) < 1000000:
+       n1 += 1
+       
+     print("Minium value of n (n!) : ", n - 1)
+     
+     ```
+  - [ ] 计算完1秒钟后，后面的的时间不能直接乘1秒钟的结果
+  > But remember, N is an integer, so you should not just multiply N with conversion factor- the answer will be off by huge amount for higher time complexities. Instead you should multiply in the beginning of the calculation.
