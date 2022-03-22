@@ -57,6 +57,8 @@
   > Consider the problem of adding two n-bit binary integers, stored in two n-element arrays A and B. The sum of the two integers should be stored in binary form in an (n+1)-element array C. State the problem formally and write pseudocode for adding the two integers.
   > 算法中涉及到二进制运算，详见[https://atekihcan.github.io/CLRS/02/E02.01-04/](https://atekihcan.github.io/CLRS/02/E02.01-04/)
 
+- Θ(theta, 希腊字母第八字)
+
 
 
 ## Learning progress
