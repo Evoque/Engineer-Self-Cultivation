@@ -56,3 +56,30 @@
   - [ ] 2.1-4 考虑把两个n位二进制整数加起来的问题，这两个整数分别存储在两个n元数组A和B中。这两个整数的和应该按二进制形式存储在一个(n+1)元数组C中。请给出该问题的**形式化描述**, 并写出伪代码。
   > Consider the problem of adding two n-bit binary integers, stored in two n-element arrays A and B. The sum of the two integers should be stored in binary form in an (n+1)-element array C. State the problem formally and write pseudocode for adding the two integers.
   > 算法中涉及到二进制运算，详见[https://atekihcan.github.io/CLRS/02/E02.01-04/](https://atekihcan.github.io/CLRS/02/E02.01-04/)
+
+
+
+## Learning progress
+
+|   Date    | Page | Chapter | Notes |
+| :-------: | :--: | :-----: | :---: |
+| 2022.3.22 |  49  |    2    |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+|           |      |         |       |
+
+
+
+
+
+
+
+
+
+
+
