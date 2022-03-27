@@ -58,6 +58,7 @@
   > 算法中涉及到二进制运算，详见[https://atekihcan.github.io/CLRS/02/E02.01-04/](https://atekihcan.github.io/CLRS/02/E02.01-04/)
 
 - Θ(theta, 希腊字母第八字)
+- Quick Tip: Every time we see lgn, we should think of divide-and conquer algorithms. It inherently means how many times `n` can be divided by 2, i.e. repeated division of `n` elements in two groups.
 
 
 
