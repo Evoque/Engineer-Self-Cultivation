@@ -52,3 +52,25 @@ function iterativeBinarySearch(arr, v) {
   }
   return null;
 }
+ 
+/**
+ * Binary Search Using Recursive
+ * @param {*} arr 
+ * @param {*} v 
+ * @param {*} low 
+ * @param {*} high 
+ * @returns number|null
+ * @description 
+ * Improve: 
+ * 1. arr一直往下传递，不用考虑拆分成目标字数组；如要拆分子数组：
+ *    1.1 就不用low/high, 需记录一个baseIndex
+ *    1.2 每次都需要创建一个新数组(Arr/2), 空间利用上不见得比arr直接传更有优势
+ *    1.3 arr本质是引用类型，所以对于arr一直下传造成空间使用过度的忧虑并不存在
+ */
+function recursiveBinarySearch(arr, v, low, high) {
+  if (low > high) return null;
+  const mid = parseInt((low + high) / 2);
+  if (arr[mid] === v) return v;
+  else if (v > arr[mid]) recursiveBinarySearch(A, v, mid + 1, high);
+  else recursiveBinarySearch(A, v, low, mid - 1);
+}
