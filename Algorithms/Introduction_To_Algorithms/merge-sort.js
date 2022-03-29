@@ -4,10 +4,8 @@
 
 /**
  * Merges two subarrays of arr[]
- * @param {Array} arr arr[]
- * @param {number} l  left: arr[l..m]
- * @param {number} m  mid
- * @param {number} r  right: arr[m+1..r]
+ * 1. create two temp arrays - copy from origin array;
+ * 2. copy the items in temp arrays to origin array;
  */
 function merge(arr, l, m, r) {
   // temp arrays
@@ -50,16 +48,15 @@ function merge(arr, l, m, r) {
   }
 }
 
-function mergeSort(arr, l, r){
+function mergeSort(arr, l, r) {
+  // Divide
   if (l >= r) return;
+  const m = l + parseInt((r - l) / 2);
 
-  const m = l + parseInt((r-l)/2);
+  // Conquer
   mergeSort(arr, l, m);
-  mergeSort(arr, m+1, r);
+  mergeSort(arr, m + 1, r);
+
+  // Combine
   merge(arr, l, m, r);
 }
-
-
-var arr = [5, 2, 4, 7, 1, 3, 2, 6];
-mergeSort(arr, 0, arr.length - 1);
-console.log('->', arr);
