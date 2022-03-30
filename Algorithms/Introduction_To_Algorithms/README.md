@@ -59,7 +59,7 @@
 
 - Θ(theta, 希腊字母第八字)
 - Quick Tip: Every time we see lgn, we should think of divide-and conquer algorithms. It inherently means how many times `n` can be divided by 2, i.e. repeated division of `n` elements in two groups.
-
+- Problems 2-1
 
 
 ## Learning progress
@@ -68,7 +68,7 @@
 | :-------: | :----: | :-----: | :---: |
 | 2022.3.22 | 51(30) |   2.3   |       |
 | 2022.3.26 | 60(39) |   2     |       |
-|           |        |         |       |
+| 2022.3.29 |   (40  |   2     |       |
 |           |        |         |       |
 |           |        |         |       |
 |           |        |         |       |
