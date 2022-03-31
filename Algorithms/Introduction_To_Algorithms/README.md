@@ -66,6 +66,8 @@
     c. Given that the modified algorithm runs in O(nk + nlg(n/k)) worst-case time, what is the largest value of k as a function of n for which the modified algorithm has the same running time as standard merge sort, in terms of O-notation?
     > Why assume k = O(lgn)
     d. How should we choose k in practice?
+    > Implement this improved algorithm
+- [ ] 2-2 Correctness of bubblesort
 
 
 
