@@ -67,6 +67,11 @@
     > Why assume k = O(lgn)
     d. How should we choose k in practice?
     > Implement this improved algorithm
+- [ ] Chapter 2 Summary 
+    1. Insertion Sort
+    2. Merge Sort
+    3. Selection Sort
+    4. Bubble Sort
 
 
 
