@@ -67,7 +67,6 @@
     > Why assume k = O(lgn)
     d. How should we choose k in practice?
     > Implement this improved algorithm
-- [ ] 2-2 Correctness of bubblesort
 
 
 
